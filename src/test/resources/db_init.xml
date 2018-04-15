@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<counter id="1" name="one" counter_type_id="3" owner_username="demo" />
+	<counter id="2" name="two" counter_type_id="3" owner_username="user" />
+	<counter id="3" name="three" counter_type_id="2" owner_username="demo" />
+
+	<counter_value counter_id="1" counter_value="123.45" />
+	<counter_value counter_id="2" counter_value="456.222" />
+	<counter_value counter_id="3" counter_value="9876.01" />
+</dataset>
